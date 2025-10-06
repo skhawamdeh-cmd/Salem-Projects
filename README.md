@@ -1,4 +1,2 @@
-# Hello everyone!
-# Salem-Projects
-# Testing purpose.
+# Salem-Project: Testing  and coding purpose.
 Python Practice Projects..
